@@ -124,7 +124,7 @@ void welcome()
 	cout << "Welcome to MATRIX CALCULATOR! You may want to\n\
 1.input new matrix\n\
 2.check existed matrix\n\
-3.use the calculator with operation + - * |(matrix inversion) /(define A/B as A*(B|) )	\n\
+3.use the calculator with operation () + - * |(matrix inversion) /(define A/B as A*(B|) )	\n\
 or input any other value to exit.\n";
 	int op = 0;
 	cin >> op;	//乱输会读不进去
